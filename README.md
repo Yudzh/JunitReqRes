@@ -4,6 +4,7 @@
 <ul>
 <li class="has-line-data" data-line-start="6" data-line-end="7">Passing positive and negative tests using the open API (<a href="https://reqres.in/">https://reqres.in/</a>)</li>
 <li class="has-line-data" data-line-start="7" data-line-end="9">Saving and validating a test error (error code and text) in negative tests</li>
+<li class="has-line-data" data-line-start="7" data-line-end="9">Parallel execution</li>
 </ul>
 <h2 class="code-line" data-line-start=9 data-line-end=10 ><a id="Tech_9"></a>Tech</h2>
 <ul>
